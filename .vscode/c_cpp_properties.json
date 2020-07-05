@@ -1,0 +1,73 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Mac",
+            "macFrameworkPath": [],
+            "includePath": [
+                "/Users/kbuley/Marlin-2.0.5.3-skr/.pio/libdeps/LPC1769/Adafruit NeoPixel",
+                "/Users/kbuley/Marlin-2.0.5.3-skr/.pio/libdeps/LPC1769/SailfishLCD",
+                "/Users/kbuley/Marlin-2.0.5.3-skr/.pio/libdeps/LPC1769/TMCStepper_ID5513/src",
+                "/Users/kbuley/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src",
+                "/Users/kbuley/.platformio/packages/framework-arduino-lpc176x/libraries/LiquidCrystal/src",
+                "/Users/kbuley/Marlin-2.0.5.3-skr/.pio/libdeps/LPC1769/U8glib-HAL_ID1932/src",
+                "/Users/kbuley/Marlin-2.0.5.3-skr/include",
+                "/Users/kbuley/Marlin-2.0.5.3-skr/Marlin",
+                "/Users/kbuley/Marlin-2.0.5.3-skr/Marlin/src/HAL/LPC1768/include",
+                "/Users/kbuley/Marlin-2.0.5.3-skr/Marlin/src/HAL/LPC1768/u8g",
+                "/Users/kbuley/.platformio/packages/framework-arduino-lpc176x/cores/arduino",
+                "/Users/kbuley/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include",
+                "/Users/kbuley/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib",
+                "/Users/kbuley/.platformio/packages/framework-arduino-lpc176x/system/lpc176x",
+                "/Users/kbuley/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/Users/kbuley/Marlin-2.0.5.3-skr/.pio/libdeps/LPC1769/Adafruit NeoPixel",
+                    "/Users/kbuley/Marlin-2.0.5.3-skr/.pio/libdeps/LPC1769/SailfishLCD",
+                    "/Users/kbuley/Marlin-2.0.5.3-skr/.pio/libdeps/LPC1769/TMCStepper_ID5513/src",
+                    "/Users/kbuley/.platformio/packages/framework-arduino-lpc176x/libraries/Servo/src",
+                    "/Users/kbuley/.platformio/packages/framework-arduino-lpc176x/libraries/LiquidCrystal/src",
+                    "/Users/kbuley/Marlin-2.0.5.3-skr/.pio/libdeps/LPC1769/U8glib-HAL_ID1932/src",
+                    "/Users/kbuley/Marlin-2.0.5.3-skr/include",
+                    "/Users/kbuley/Marlin-2.0.5.3-skr/Marlin",
+                    "/Users/kbuley/Marlin-2.0.5.3-skr/Marlin/src/HAL/LPC1768/include",
+                    "/Users/kbuley/Marlin-2.0.5.3-skr/Marlin/src/HAL/LPC1768/u8g",
+                    "/Users/kbuley/.platformio/packages/framework-arduino-lpc176x/cores/arduino",
+                    "/Users/kbuley/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/include",
+                    "/Users/kbuley/.platformio/packages/framework-arduino-lpc176x/system/CMSIS/lib",
+                    "/Users/kbuley/.platformio/packages/framework-arduino-lpc176x/system/lpc176x",
+                    "/Users/kbuley/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "LPC176X_FRAMEWORK",
+                "TARGET_LPC1768",
+                "F_CPU=120000000L",
+                "MCU_LPC1769",
+                "PIO_PLATFORM_VERSION=1001UL",
+                "PIO_FRAMEWORK_VERSION=2003UL",
+                "PLATFORMIO=40304",
+                "U8G_HAL_LINKS",
+                "__MARLIN_FIRMWARE__",
+                "ARDUINO_ARCH_LPC176X",
+                "ARDUINOLPC=10805",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cppStandard": "c++17",
+            "compilerPath": "/Users/kbuley/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc",
+            "compilerArgs": [
+                "-mthumb",
+                "-mcpu=cortex-m3",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
