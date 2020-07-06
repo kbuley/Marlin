@@ -12,7 +12,7 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
-            "executable": "/Users/kbuley/Marlin-2.0.5.3-skr/.pio/build/LPC1769/firmware.elf",
+            "executable": "/Users/kbuley/Marlin/.pio/build/LPC1769/firmware.elf",
             "toolchainBinDir": "/Users/kbuley/.platformio/packages/toolchain-gccarmnoneeabi/bin",
             "svdPath": "/Users/kbuley/.platformio/platforms/nxplpc-arduino-lpc176x/misc/svd/LPC176x5x_v0.2.svd",
             "preLaunchTask": {
@@ -25,7 +25,7 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
-            "executable": "/Users/kbuley/Marlin-2.0.5.3-skr/.pio/build/LPC1769/firmware.elf",
+            "executable": "/Users/kbuley/Marlin/.pio/build/LPC1769/firmware.elf",
             "toolchainBinDir": "/Users/kbuley/.platformio/packages/toolchain-gccarmnoneeabi/bin",
             "svdPath": "/Users/kbuley/.platformio/platforms/nxplpc-arduino-lpc176x/misc/svd/LPC176x5x_v0.2.svd",
             "internalConsoleOptions": "openOnSessionStart"
